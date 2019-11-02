@@ -1,5 +1,5 @@
 ## Teachers' perception of Jupyter and R shiny as digital tools for open data and analysis 
-*a research paper about using Jupyter and R in Physics Education and Research*
+*a research paper about using Jupyter and R in Physics Education Research*
 
 ### Abstract of the paper
 
