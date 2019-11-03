@@ -27,7 +27,7 @@ All source code is distributed under [the MIT license](https://choosealicense.co
 
 ## Related materials
 
-The [`misc`](misc) folder contains our previously published papers related to the Jupyter in PER project.
+The [`misc`](misc) folder contains other materials and our previously published papers related to the Jupyter in PER project.
 
 ## Acknowledgements
 
