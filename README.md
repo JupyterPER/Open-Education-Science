@@ -28,7 +28,7 @@ This is also a storage containing all data files and all R and Python based Jupy
 The notebooks presents every step of our open data analysis with explaining narratives ilustrating explored concepts and methods. 
 
 **At the moment Jupyter notebooks do not work due to just appeared technical problems with incompatibility of some R libraries. We are working very hard to 
-remove this problems .**.
+update Jupyter notebooks, removing these problems ...**.
 
 Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
 
