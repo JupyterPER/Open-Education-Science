@@ -10,7 +10,7 @@ During the last ten years advances in open-source digital technology, used espec
 science, led to very accessible ways how to obtain, store, process, analyze or share data in almost 
 every human activity. Data science tools bring not only transparency, accessibility, and reproducibility in open science, but also give benefits in open education as interactive learning tools for improving effectiveness of instruction.
 
-Together with our pedagogical introduction and review of Jupyter as a interactive multimedia learning tool we present our three-years long research in the framework of a complex mixed-methods approach which examines physics teachers' perception of Jupyter technology in three groups: Ph.D. candidates in physics education research (PER) ($N = 9$), pre-service physics teachers ($N = 33$) and in-service physics teachers ($N = 40$).
+Together with our pedagogical introduction and review of Jupyter as a interactive multimedia learning tool we present our three-years long research in the framework of a complex mixed-methods approach which examines physics teachers' perception of Jupyter technology in three groups: Ph.D. candidates in physics education research (PER) (N = 9), pre-service physics teachers (N = 33) and in-service physics teachers (N = 40).
 
 Despite the fact that open-source Jupyter notebooks are natural and easy as email or web, the results suggest that in-service teachers are not prepared for Jupyter technology and open analysis, but positively accept open education data presented via another open-source data science tool, R Shiny interactive web application, as an important form of immediate feedback and learning
 about the quality of their instruction. 
@@ -27,7 +27,7 @@ A preprint version will be available at <https://arxiv.org/abs/>.
 This is also a storage containing all data files and all R and Python based Jupyter notebooks dealing with the paper.
 The notebooks present every step of our open data analysis with explaining narratives ilustrating explored concepts and methods. 
 
-**At this moment we are working on some changes in Jupyter notebooks due to just appeared technical problems with incompatibility of some R libraries. We are working very hard to upload Jupyter notebooks, removing these problems ...**.
+**At this moment we are working on some changes in Jupyter notebooks due to just appeared technical problems with incompatibility of some R libraries. We are working very hard to upload Jupyter notebooks, removing these problems ... Please return to our page in a few next days.**.
 
 Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Sciene) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
 
