@@ -27,10 +27,9 @@ A preprint version will be available at <https://arxiv.org/abs/>.
 This is also a storage containing all data files and all R and Python based Jupyter notebooks dealing with the paper.
 The notebooks present every step of our open data analysis with explaining narratives ilustrating explored concepts and methods. 
 
-**At the moment Jupyter notebooks do not work due to just appeared technical problems with incompatibility of some R libraries. We are working very hard to 
-update Jupyter notebooks, removing these problems ...**.
+**At this moment we are working on some changes in Jupyter notebooks due to just appeared technical problems with incompatibility of some R libraries. We are working very hard to upload Jupyter notebooks, removing these problems ...**.
 
-Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/fdslrm/EBLUP-NE/blob/master/index.ipynb) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
+Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/) [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Sciene) with full visualisation. If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
 
 For interactive **executing** notebooks as live documents without zero setup to install or compile the software,
 **use** the following link
