@@ -31,7 +31,7 @@ A preprint version is available at <https://arxiv.org/abs/2007.11262>.
 This is also a storage containing all data files and all R and Python based Jupyter notebooks dealing with the paper.
 The notebooks present every step of our open data analysis with explaining narratives ilustrating explored concepts and methods. 
 
-Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/), click on [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb) with full visualisation (or [`index.ipynb`](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb). If there is a need, they can be also viewed directly on Github [`index.ipynb`](index.ipynb), also as a raw code. 
+Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https://nbviewer.jupyter.org/), click on [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb) with full visualisation (or [`index.ipynb`](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb). If there is a need, they can be also viewed directly on Github [`index_raw.ipynb`](index.ipynb), also as a raw code. 
 
 There is also possibility dor interactive **executing** notebooks as live documents without zero setup to install or compile the software,
 using Binder. 
