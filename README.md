@@ -24,7 +24,7 @@ All results support the ongoing worldwide effort to implement Jupyter in traditi
 ## Research paper 
 The research paper has been submitted for publishing in [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com/).
 
-A preprint version will be available at <https://arxiv.org/abs/2007.11262>.
+A preprint version is available at <https://arxiv.org/abs/2007.11262>.
 
 ## Data and digital tools [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb)
 
