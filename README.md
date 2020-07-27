@@ -24,7 +24,7 @@ All results support the ongoing worldwide effort to implement Jupyter in traditi
 ## Research paper 
 The research paper has been submitted for publishing in [International Journal of Educational Technology in Higher Education](https://educationaltechnologyjournal.springeropen.com/).
 
-A preprint version will be available at <https://arxiv.org/abs/>.
+A preprint version will be available at <https://arxiv.org/abs/2007.11262>.
 
 ## Data and digital tools [![render in nbviewer](misc/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/JupyterPER/Open-Education-Science/blob/master/index.ipynb)
 
@@ -35,8 +35,7 @@ Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https:/
 
 There is also possibility dor interactive **executing** notebooks as live documents without zero setup to install or compile the software,
 using Binder. 
-**We run into problems to make all kernels simultaneouslu available in Binder, so this possibility does not work momentarily. We are hardly working on it ...**
-* [`Jupyter notebooks`](https://mybinder.org/v2/gh/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/)
+**We run into problems to make all kernels (SageMath, Python, R) simultaneously available in Binder, so the interactive possibility does not work momentarily. We are hardly working on it ...** * [`Jupyter notebooks`](https://mybinder.org/v2/gh/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/)
 
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 
