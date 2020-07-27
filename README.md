@@ -35,7 +35,7 @@ Notebooks can be studied and **viewed** statically in [Jupyter nbviewer](https:/
 
 There is also possibility dor interactive **executing** notebooks as live documents without zero setup to install or compile the software,
 using Binder. 
-**We run into problems to make all kernels (SageMath, Python, R) simultaneously available in Binder, so the interactive possibility does not work momentarily. We are hardly working on it ...** * [`Jupyter notebooks`](https://mybinder.org/v2/gh/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/)
+**We run into problems to make all kernels (SageMath, Python, R) simultaneously available in Binder, so the interactive possibility does not work momentarily. We are hardly working on it ...** [`Jupyter notebooks`](https://mybinder.org/v2/gh/) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/)
 
 All source code is distributed under [the MIT license](https://choosealicense.com/licenses/mit/).
 
